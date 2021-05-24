@@ -42,6 +42,5 @@ console.log(Math.round(Math.random() * 100));
 
 
  console.log(Math.sign()) // -1 / 0 / 1
- 
  console.log(Math.sqrt(9)) // -1 / 0 / 1
 
